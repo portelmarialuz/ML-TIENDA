@@ -102,7 +102,7 @@ const productos = [
     {
         id: "mascara-de-pestañas-001",
         titulo: "Mascara de pestaña 001",
-        imagen: "./img/mascara de pestaña/mascara de pestaña 1.jpg",
+        imagen: "./img/mascara de pestana/mascara de pestana 1.jpg",
         categoria: {
             nombre: "Mascara de pestaña",
             id: "mascara-de-pestañas"
@@ -112,7 +112,7 @@ const productos = [
     {
         id: "mascara-de-pestañas-002",
         titulo: "Mascara de pestaña 002",
-        imagen: "./img/mascara de pestaña/mascara de pestaña 2.jpg",
+        imagen: "./img/mascara de pestana/mascara de pestana 2.jpg",
         categoria: {
             nombre: "Mascara de pestaña",
             id: "mascara-de-pestañas"
@@ -122,7 +122,7 @@ const productos = [
     {
         id: "mascara-de-pestañas-003",
         titulo: "Mascara de pestaña 003",
-        imagen: "./img/mascara de pestaña/mascara de pestaña 3.jpg",
+        imagen: "./img/mascara de pestana/mascara de pestana 3.jpg",
         categoria: {
             nombre: "Mascara de pestaña",
             id: "mascara-de-pestañas"
@@ -132,7 +132,7 @@ const productos = [
     {
         id: "mascara-de-pestañas-004",
         titulo: "Mascara de pestaña 004",
-        imagen: "./img/mascara de pestaña/mascara de pestaña 4.jpg",
+        imagen: "./img/mascara de pestana/mascara de pestana 4.jpg",
         categoria: {
             nombre: "Mascara de pestaña",
             id: "mascara-de-pestañas"
@@ -142,7 +142,7 @@ const productos = [
     {
         id: "mascara-de-pestañas-005",
         titulo: "Mascara de pestaña 005",
-        imagen: "./img/mascara de pestaña/mascara de pestaña 5.jpg",
+        imagen: "./img/mascara de pestana/mascara de pestana 5.jpg",
         categoria: {
             nombre: "Mascara de pestaña",
             id: "mascara-de-pestañas"
