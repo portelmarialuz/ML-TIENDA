@@ -13,6 +13,8 @@ closeMenu.addEventListener("click", () => {
 })
 
 
-botonesCategorias.forEach(boton => boton.addEventListener("click", () => {
+const botonesMenu = document.querySelectorAll(".boton-menu");
+
+botonesMenu.forEach(boton => boton.addEventListener("click", () => {
     aside.classList.remove("aside-visible");
 }))

@@ -4,7 +4,7 @@ const productos = [
     {
         id: "delineador-001",
         titulo: "Delineador 001",
-        imagen: "./img/delineador/delineador 1.jpg",
+        imagen: "./img/delineador/delineador-1.webp",
         categoria: {
             nombre: "Delineador",
             id: "delineador"
@@ -14,7 +14,7 @@ const productos = [
     {
         id: "delineador-002",
         titulo: "Delineador 002",
-        imagen: "./img/delineador/delineador 2.jpg",
+        imagen: "./img/delineador/delineador-2.webp",
         categoria: {
             nombre: "Delineador",
             id: "delineador"
@@ -24,7 +24,7 @@ const productos = [
     {
         id: "delineador-003",
         titulo: "Delineador 003",
-        imagen: "./img/delineador/delineador 3.jpg",
+        imagen: "./img/delineador/delineador-3.webp",
         categoria: {
             nombre: "Delineador",
             id: "delineador"
@@ -34,7 +34,7 @@ const productos = [
     {
         id: "delineador-004",
         titulo: "Delineador 004",
-        imagen: "./img/delineador/delineador 4.jpg",
+        imagen: "./img/delineador/delineador-4.webp",
         categoria: {
             nombre: "Delineador",
             id: "delineador"
@@ -48,7 +48,7 @@ const productos = [
     {
         id: "labial-001",
         titulo: "Labial 001",
-        imagen: "./img/labiales/labial 1.jpg",
+        imagen: "./img/labiales/labial-1.webp",
         categoria: {
             nombre: "Labiales",
             id: "labiales"
@@ -58,7 +58,7 @@ const productos = [
     {
         id: "labial-002",
         titulo: "Labial 002",
-        imagen: "./img/labiales/labial 2.jpg",
+        imagen: "./img/labiales/labial-2.webp",
         categoria: {
             nombre: "Labiales",
             id: "labiales"
@@ -68,7 +68,7 @@ const productos = [
     {
         id: "labial-003",
         titulo: "Labial 003",
-        imagen: "./img/labiales/labial 3.jpg",
+        imagen: "./img/labiales/labial-3.webp",
         categoria: {
             nombre: "Labiales",
             id: "labiales"
@@ -78,7 +78,7 @@ const productos = [
     {
         id: "labial-004",
         titulo: "Labial 004",
-        imagen: "./img/labiales/labial 4.jpg",
+        imagen: "./img/labiales/labial-4.webp",
         categoria: {
             nombre: "Labiales",
             id: "labiales"
@@ -88,7 +88,7 @@ const productos = [
     {
         id: "labial-005",
         titulo: "Labial 005",
-        imagen: "./img/labiales/labial 5.jpg",
+        imagen: "./img/labiales/labial-5.webp",
         categoria: {
             nombre: "Labiales",
             id: "labiales"
@@ -102,7 +102,7 @@ const productos = [
     {
         id: "mascara-de-pestañas-001",
         titulo: "Mascara de pestaña 001",
-        imagen: "./img/mascara de pestana/mascara de pestana 1.jpg",
+        imagen: "./img/mascara-pestanas/mascara-pestanas-1.webp",
         categoria: {
             nombre: "Mascara de pestaña",
             id: "mascara-de-pestañas"
@@ -112,7 +112,7 @@ const productos = [
     {
         id: "mascara-de-pestañas-002",
         titulo: "Mascara de pestaña 002",
-        imagen: "./img/mascara de pestana/mascara de pestana 2.jpg",
+        imagen: "./img/mascara-pestanas/mascara-pestanas-2.webp",
         categoria: {
             nombre: "Mascara de pestaña",
             id: "mascara-de-pestañas"
@@ -122,7 +122,7 @@ const productos = [
     {
         id: "mascara-de-pestañas-003",
         titulo: "Mascara de pestaña 003",
-        imagen: "./img/mascara de pestana/mascara de pestana 3.jpg",
+        imagen: "./img/mascara-pestanas/mascara-pestanas-3.webp",
         categoria: {
             nombre: "Mascara de pestaña",
             id: "mascara-de-pestañas"
@@ -132,7 +132,7 @@ const productos = [
     {
         id: "mascara-de-pestañas-004",
         titulo: "Mascara de pestaña 004",
-        imagen: "./img/mascara de pestana/mascara de pestana 4.jpg",
+        imagen: "./img/mascara-pestanas/mascara-pestanas-4.webp",
         categoria: {
             nombre: "Mascara de pestaña",
             id: "mascara-de-pestañas"
@@ -142,7 +142,7 @@ const productos = [
     {
         id: "mascara-de-pestañas-005",
         titulo: "Mascara de pestaña 005",
-        imagen: "./img/mascara de pestana/mascara de pestana 5.jpg",
+        imagen: "./img/mascara-pestanas/mascara-pestanas-5.webp",
         categoria: {
             nombre: "Mascara de pestaña",
             id: "mascara-de-pestañas"
@@ -156,7 +156,7 @@ const productos = [
     {
         id: "sombra-de-ojos-001",
         titulo: "Sombra de ojos 001",
-        imagen: "./img/sombra de ojo/sombra de ojo 1.jpg",
+        imagen: "./img/sombra-de-ojos/sombra-de-ojos-1.webp",
         categoria: {
             nombre: "Sombra de ojos",
             id: "sombra-de-ojos"
@@ -166,7 +166,7 @@ const productos = [
     {
         id: "sombra-de-ojos-002",
         titulo: "Sombra de ojos 002",
-        imagen: "./img/sombra de ojo/sombra de ojo 2.jpg",
+        imagen: "./img/sombra-de-ojos/sombra-de-ojos-2.webp",
         categoria: {
             nombre: "Sombra de ojos",
             id: "sombra-de-ojos"
@@ -176,7 +176,7 @@ const productos = [
     {
         id: "sombra-de-ojos-003",
         titulo: "Sombra de ojos 003",
-        imagen: "./img/sombra de ojo/sombra de ojo 3.jpg",
+        imagen: "./img/sombra-de-ojos/sombra-de-ojos-3.webp",
         categoria: {
             nombre: "Sombra de ojos",
             id: "sombra-de-ojos"
