@@ -76,6 +76,7 @@ aside {
     border-top-left-radius: 3rem;
     position: relative;
     width: 100%;
+    white-space: nowrap;
 }
 
 .boton-menu.active::before {
